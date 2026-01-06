@@ -1,108 +1,75 @@
-# 👋 Hi, I'm Gaurab Khadka  
+<div align="center">
 
-### 🎓 Student Developer | BCA Student | Aspiring Software Developer  
+# 👋 Hello, I'm Gaurab Khadka
 
-I am a **BCA student** learning **Java and Web Development**, aiming to become a **software developer who builds solutions for real-world problems**.  
-I enjoy learning new technologies, improving problem-solving skills, and creating practical applications.
+**BCA Student | Java Enthusiast | Future Software Developer**
 
----
+I build solutions that solve real problems through clean, efficient code.
 
-## 💻 Programming Languages
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=flat-square)](https://www.gaurabkhadka82.com.np)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-red?style=flat-square)](mailto:khadkagaurab82@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=flat-square)](https://www.linkedin.com/in/gaurab-khadka-299096376/)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
-</p>
-
-<p>
-  C &nbsp;&nbsp;&nbsp;&nbsp;
-  Java &nbsp;&nbsp;&nbsp;&nbsp;
-  JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
-  HTML &nbsp;&nbsp;&nbsp;&nbsp;
-  CSS &nbsp;&nbsp;&nbsp;&nbsp;
-  SQL &nbsp;&nbsp;&nbsp;&nbsp;
-  Python
-</p>
+</div>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧑‍💻 About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" />
-</p>
-
-<p>
-  Git &nbsp;&nbsp;&nbsp;&nbsp;
-  GitHub &nbsp;&nbsp;&nbsp;&nbsp;
-  VS Code &nbsp;&nbsp;&nbsp;&nbsp;
-  IntelliJ IDEA &nbsp;&nbsp;&nbsp;&nbsp;
-  Canva
-</p>
+- 🎓 Studying **Bachelor of Computer Application (BCA)**
+- 💡 Focused on **Java, Web Development & Problem Solving**
+- 🚀 Learning **OOP, Data Structures & Algorithms**
+- 🎯 Goal: Become a skilled software developer who creates impactful solutions
 
 ---
 
-## 📚 Currently Learning
-- Object-Oriented Programming (OOP) in Java  
-- Data Structures & Algorithms (DSA)  
-- Web Development  
+## 🛠️ Skills
+
+**Languages:** Java • JavaScript • C • Python • HTML • CSS • SQL
+
+**Tools:** Git • GitHub • VS Code • IntelliJ IDEA • Canva
 
 ---
 
-## 🌐 Project
+## 🌟 Projects
 
-### 🔹 Portfolio Website  
-🔗 **Live:** https://www.gaurabkhadka82.com.np  
-**Tech Stack:** HTML, CSS, JavaScript  
-
-A personal portfolio website showcasing my skills, projects, and contact details.
+### 📌 [Personal Portfolio](https://www.gaurabkhadka82.com.np)
+A clean, responsive website showcasing my work and skills.  
+**Stack:** HTML, CSS, JavaScript
 
 ---
 
-## 🤝 Connect With Me
+## 📈 GitHub Activity
 
-<p align="left">
-  <a href="https://www.gaurabkhadka82.com.np/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="38" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gaurab-coder" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gaurab-khadka-299096376/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="38" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/gaurab3915" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="38" />
-  </a>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurab-coder&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-coder&layout=compact&theme=tokyonight&hide_border=true)
 
-📧 **Email:** khadkagaurab82@gmail.com  
+</div>
 
 ---
 
-## 🎯 Career Objective
-Looking for **internship opportunities** where I can apply my skills, work on real projects, and grow as a **software developer**.
+## 🎯 What I'm Looking For
 
-⭐ *Feel free to explore my repositories and connect with me!*
+✅ **Internship opportunities** to work on real projects  
+✅ Hands-on experience with modern technologies  
+✅ Collaborative learning with experienced developers  
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+**Open to collaborations and opportunities!**
+
+[Website](https://www.gaurabkhadka82.com.np) • [GitHub](https://github.com/gaurab-coder) • [LinkedIn](https://www.linkedin.com/in/gaurab-khadka-299096376/) • [Instagram](https://www.instagram.com/gaurab3915)
+
+**📧 khadkagaurab82@gmail.com**
+
+---
+
+*⭐ Feel free to explore my repositories!*
+
+</div>
